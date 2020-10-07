@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PROJECT 2</string>
+    <string name="tv_splashScreenText">PROJECT 2</string>
+    <string name="str_username">Username</string>
+    <string name="str_password">Password</string>
+    <string name="str_login">Login</string>
+    <string name="str_register">Register</string>
+    <string name="str_email">Email</string>
+    <string name="str_fullname">Nama Lengkap</string>
+    <string name="str_school">Asal Sekolah</string>
+    <string name="str_address">Alamat Tinggal</string>
+    <string name="str_save">Simpan</string>
+    <string name="str_edit_data">Edit Data</string>
+    <string name="str_erase_data">Hapus Data</string>
+    <string name="str_logout">Logout</string>
+    <string name="str_homePage">Home Page</string>
+</resources>

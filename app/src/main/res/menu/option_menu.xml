@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item-->
+<!--        android:id="@+id/menu_edit_data"-->
+<!--        android:title="@string/str_edit_data"/>-->
+
+    <item
+        android:id="@+id/menu_erase_data"
+        android:title="@string/str_erase_data"/>
+
+    <item
+        android:id="@+id/menu_logout"
+        android:title="@string/str_logout"/>
+</menu>
